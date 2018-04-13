@@ -1,0 +1,19 @@
+{
+  "name": "node-restify-jwt-pg",
+  "version": "0.0.1",
+  "description": "This project is the scaffolding for a NodeJS application utilizing Restify, JWT Authentication, and PostgreSql. It is provided in an effort to help others implement these technologies with real-world examples.",
+  "main": "app.js",
+  "author": {
+    "name": "Johnathan Sanders"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.2",
+    "jsonwebtoken": "^8.2.0",
+    "moment": "^2.21.0",
+    "pg": "^7.4.1",
+    "restify": "^7.1.0",
+    "restify-errors": "^6.0.0",
+    "restify-router": "^0.5.0"
+  }
+}
