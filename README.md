@@ -1,4 +1,4 @@
-﻿Node-Restify-JWT-Pg - A NodeJS application implemented with Restify, JWT, and PostgreSQL
+﻿Node-Restify-JWT-PG
 =============
 
 ### What Is Node-Restify-JWT-Pg?
